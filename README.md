@@ -13,6 +13,7 @@ This program executes Strassen’s method of matrix multiplication as well as th
 7 8
 
 Followed by a blank line and the next square matrix couple.
+A sample input file called "file.txt" has been provided.
 
 
 …
