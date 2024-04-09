@@ -14,7 +14,7 @@ This program executes Strassen’s method of matrix multiplication as well as th
 
 Followed by a blank line and the next square matrix couple.
 
-A sample input file called "file.txt" has been provided.
+Sample input files "file.txt" and "input.txt" have been provided.
 
 
 …
